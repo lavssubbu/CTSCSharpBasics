@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\bin\Debug\net8.0\CallingBaseClassConstructor.exe
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\bin\Debug\net8.0\CallingBaseClassConstructor.deps.json
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\bin\Debug\net8.0\CallingBaseClassConstructor.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\bin\Debug\net8.0\CallingBaseClassConstructor.dll
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\bin\Debug\net8.0\CallingBaseClassConstructor.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.sourcelink.json
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.dll
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\refint\CallingBaseClassConstructor.dll
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\CallingBaseClassConstructor.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SampctsC#\CallingBaseClassConstructor\obj\Debug\net8.0\ref\CallingBaseClassConstructor.dll

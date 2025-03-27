@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\bin\Debug\net8.0\InterfaceConcepts.exe
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\bin\Debug\net8.0\InterfaceConcepts.deps.json
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\bin\Debug\net8.0\InterfaceConcepts.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\bin\Debug\net8.0\InterfaceConcepts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\bin\Debug\net8.0\InterfaceConcepts.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.sourcelink.json
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\refint\InterfaceConcepts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\InterfaceConcepts.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SampctsC#\InterfaceConcepts\obj\Debug\net8.0\ref\InterfaceConcepts.dll

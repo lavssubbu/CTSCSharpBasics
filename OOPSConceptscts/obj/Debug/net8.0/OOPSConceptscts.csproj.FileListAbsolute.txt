@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\bin\Debug\net8.0\OOPSConceptscts.exe
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\bin\Debug\net8.0\OOPSConceptscts.deps.json
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\bin\Debug\net8.0\OOPSConceptscts.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\bin\Debug\net8.0\OOPSConceptscts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\bin\Debug\net8.0\OOPSConceptscts.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.sourcelink.json
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\refint\OOPSConceptscts.dll
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.pdb
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\OOPSConceptscts.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SampctsC#\OOPSConceptscts\obj\Debug\net8.0\ref\OOPSConceptscts.dll
